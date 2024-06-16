@@ -5,7 +5,7 @@ from groq import Groq
 client = Groq(api_key="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")
 
 # Streamlit app title
-st.title("Groq Chatbot")
+st.title("Techy bot")
 
 # Input text from the user
 prompt = st.text_input("Kya Jaana Hai:")
