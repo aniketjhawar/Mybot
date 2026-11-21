@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 # Initialize the Groq client with your API key
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 # Streamlit app title
 st.title("Techy bot")
